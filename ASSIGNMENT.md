@@ -1,5 +1,12 @@
 # Python Testing
 
+To run this lesson, you can either start a GitHub Codespace (you will have pytest installed automatically) or you can create a Python environment from the `environment.yml` file.
+
+```bash
+conda env create -f environment.yml
+conda activate discussion-1
+```
+
 This lesson is an shortened adaptaion of [MolSSI's Testing Lesson](https://education.molssi.org/python-package-best-practices/08-testing.html).
 
 Until now, we have been writing functions and checking their behavior using an interactive Python interpreter and manually inspecting the output.

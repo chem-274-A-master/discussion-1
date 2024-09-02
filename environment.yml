@@ -1,4 +1,4 @@
-name: database-tutorial2
+name: discussion-1
 channels:
   - conda-forge
   - defaults
@@ -6,4 +6,3 @@ dependencies:
   - python=3.12
   - pip
   - pytest
-  
